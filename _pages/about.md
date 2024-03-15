@@ -1,6 +1,6 @@
 
 
-This is QHT'S ACDDEMICPAGE.
+This is QHT'S ACADEMICPAGE.
 
 A data-driven personal website
 ======
